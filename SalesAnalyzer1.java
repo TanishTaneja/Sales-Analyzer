@@ -19,7 +19,7 @@ public class SalesAnalyzer1 {
             this.totalPrice = totalPrice;  
         }  
     }  
-
+    
     public static void main(String[] args) {  
         List<SalesEntry> salesEntries = new ArrayList<>();  
 
